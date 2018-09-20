@@ -1,0 +1,32 @@
+{
+  "cranPackages": [
+    {
+      "name": "scales",
+      "displayName": "scales: Scale Functions for Visualization",
+      "url": "https://cran.r-project.org/web/packages/scales/index.html"
+    },
+    {
+      "name": "paletteer",
+      "displayName": "paletteer: Comprehensive Collection of Color Palettes",
+      "url": "https://cran.r-project.org/web/packages/scales/index.html"
+    },
+    {
+      "name": "ggplot2",
+      "displayName": "ggplot2: An Implementation of the Grammar of Graphics",
+      "url": "https://cran.r-project.org/web/packages/ggplot2/index.html"
+    },
+    {
+      "name": "seriation",
+      "displayName": "seriation: Infrastructure for Ordering Objects",
+      "url": "https://cran.r-project.org/web/packages/seriation/index.html"
+    },
+    {
+      "name": "Redmonder",
+      "displayName": "Redmonder: Microsoft-Inspired Color Palettes",
+      "url": "https://cran.r-project.org/web/packages/Redmonder/index.html"
+    }
+    }
+  ]
+}
+
+
